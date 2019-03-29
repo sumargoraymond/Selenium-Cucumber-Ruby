@@ -13,7 +13,7 @@ Simple Ruby tests written in BDD style for Appium. Steps are defined in step def
 
 **How to run:**
 1. Run appium from command line
-2. Go to `simple_ruby_cucumber_appium` folder then run this command
+2. Go to *simple_ruby_cucumber_appium* folder then run this command
 
 `cucumber PLATFORM=android APP_PATH=path_to_apk_file.apk`
 
